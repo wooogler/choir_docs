@@ -20,3 +20,4 @@
 ***
 
 * [Chat History](chat-history.md)
+* [Echolab's Policy](echolabs-policy.md)
