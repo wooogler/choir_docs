@@ -81,15 +81,3 @@ Some of the advice doesn't exactly map on to the structure of a visualization pa
     figure that goes into a paper. Think about developing a workflow that
 
     would support that goal. Your future self will be happy, and so will I.
-
-    \
-
-
-\
-\
-\
-\
-\
-
-
-\
