@@ -1,6 +1,6 @@
 # Echolab's Policy
 
-## Supervision
+## Super
 
 * Taking my graduate course, and doing well, is a prerequisite for being my student. I have structured my course so that there's a high correlation between doing well in it and being a good match for working with me. I typically decide in advance how many open slots I have, and then go through the ranked list of students after the course ends and offer positions in order starting from the top. Moreover, the course will give us both a chance to see if we're a match in terms of personality and research style.
 * I strongly value communication skills, both writing papers and giving talks. I will work with you to improve your skills over time, using the quite intensive processes that I describe below. Many non-native speakers of English have been extremely successful in my group, but you do need a high enough level of English proficiency at the start of your degree program that we can communicate clearly and fluidly. It's crucial that we can have in-depth discussions without a language barrier. However, I am not looking for grammar perfection. I have worked with many great people who never could write perfectly mistake-free English even after many years of living in an English-speaking country and/or working with me - but they became great writers in terms of high-level structure and mid-level flow. I can do grammar clean-up pass as we go and at the end (I read and copyedit faster than most people), if everything else is in place.

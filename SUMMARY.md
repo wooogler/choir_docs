@@ -1,10 +1,8 @@
 # Table of contents
 
-* [Welcome](README.md)
-
 ## Getting Started
 
-* [Quickstart](getting-started/quickstart.md)
+* [Quickstart](README.md)
 * [Publish your docs](getting-started/publish-your-docs.md)
 * [Example page](getting-started/example-page.md)
 
@@ -19,5 +17,4 @@
 
 ***
 
-* [Chat History](chat-history.md)
 * [Echolab's Policy](echolabs-policy.md)
